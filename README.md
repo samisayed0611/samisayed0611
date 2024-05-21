@@ -6,21 +6,7 @@ Experienced Software Engineer pursuing a Master's in AI and Data Science from DI
 
 I have over 2 years experience in data analytics and full-stack web development. 
 
-**Skills**: 
-1. **Python**
-   1. Sklearn
-   2. Pandas,
-   3. Matplotlib
-   4. OpenCV,
-   5. Numpy
-2. **PowerBI**
-3. **Web Development**
-   1. Typescript
-   2. Html 5
-   3. Tailwind CSS
-   4. Javascript
-   5. Next JS
-   6. React JS
+**PYTHON | MACHINE LEARNING | DATA ANALYTICS | FULL STACK WEB DEVELOPER**
 
 
 
